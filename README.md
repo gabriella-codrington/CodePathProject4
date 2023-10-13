@@ -1,7 +1,7 @@
 # CodePathProject4
-# Project 4 - *Name of App Here*
+# Project 4 - Trivia
 
-Submitted by: **Your Name Here**
+  Submitted by: Gabriella Codrington
 
 Trivia is an app that allows the user to answer trivia questions and see their score afterward. It is connected to a trivia API 
 that provides the questions and answers.
